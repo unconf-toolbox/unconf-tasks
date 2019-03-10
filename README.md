@@ -1,4 +1,4 @@
-# unconf-planner
+# unconf-planner <img src="https://raw.githubusercontent.com/unconf-toolbox/unconf-website/master/figs/logo.png" align="right" width="120" />
 
 Planning an unconference is a lot of work! Since many of the steps (setting up a website, facilitating participant communication, etc.) occur on GitHub, it may be useful for organizers to conduct their project management on GitHub as well. 
 
