@@ -1,0 +1,45 @@
+- title: Get Participants
+  description: Recruit, select, and prepare unconf participants for success
+  issue:
+  - title: Identify pre-select participants   
+  - title: Invite pre-select participants
+  - title: Finalize application questions
+  - title: Build application on Google Forms
+  - title: Test and launch application
+  - title: Announce application
+  - title: Create rubric for reviewing apps
+  - title: Publicize application
+  - title: Review applications
+  - title: Draft logistics email
+  - title: Notify selected participants
+  - title: Notify runner-up participants
+  - title: Send reminder email to participants
+  - title: Plan retrospective questions
+
+- title: Source projects
+  description: Determine what will be worked on during the unconf
+  issue: 
+  - title: Identify potential maintainers or organizations to contribute projects
+  - title: Contact potential issue contributors 
+  
+- title: Virtual Logistics
+  description: Set up technological infrastructure and community
+  issue:
+  - title: Set up Slack channel
+  - title: Set up GitHub repo and seed with issue ideas
+  - title: Schedule one-on-one calls with participants
+  - title: Add selected participants to GitHub organization
+  - title: Send reminder email for participants to engage on GitHub / Slack
+  
+- title: Physical Logistics
+  description: Determine the actual conference activities
+  issue:
+  - title: Publish unconference schedule
+  - title: Write opening / closing remarks
+  - title: Create sponsorship pitch materials
+  - title: Identify potential sponsors
+  - title: Contact potential sponsors
+  - title: Reserve venue
+  - title: Order any desired swag
+  - title: Order food
+  - title: Send thank you notes to sponsors and donors
